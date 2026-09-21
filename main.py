@@ -33,3 +33,4 @@ print(available(capacity, current_count))
 
 current_count = enroll(capacity, current_count)
 print(f"После записи - записано: {current_count} человека")
+print(f"Свободных мест: {available_count(capacity, current_count)}")
