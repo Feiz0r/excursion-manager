@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "excursion_id": 1,
+        "name": "А",
+        "capacity": 3
+    },
+    {
+        "id": 2,
+        "excursion_id": 1,
+        "name": "Б",
+        "capacity": 5
+    }
+]
